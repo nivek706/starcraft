@@ -76,6 +76,7 @@ Players engaging in misconduct will first receive a warning, and any additional 
 ### Age Requirement
 The tournament does not have any specific age requirement, but it is expected that players comply with all age guidelines for prize payment, currently done through Matcherino.  
 ### Proof of Residency Requirement
+The proof of residency requirement is only applicable to online events.
 Only players that receive prizes, whether monetary, material, or services, from the event will need to provide proof of residency. All other participants will be assumed to meet residency requirements on good faith.  
 Eligible states included in the Midwest region for our league are the following: Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.  
 To prove residency, participants will need to provide images of a non-expired, state-issued ID to the tournament organizer. This information will only ever be used for proof of eligibility, and shall not be distributed.  
