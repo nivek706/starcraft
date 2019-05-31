@@ -7,7 +7,7 @@ Check-in begins 45 minutes before the scheduled start time of the tournament. An
 The method of checking in will be specified on the event-specific post, either on TL.net or Challonge.
 ### Prizes and Claiming
 Each tournament should declare its prize distribution in its announcement posting.  
-All tournament winnings will be paid through Matcherino, so it will be assumed that players are capable of receiving payment through that platform. Players are responsible for understanding the rules and regulations of payment through Matcherino.  
+Unless otherwise stated, all tournament winnings will be paid through Matcherino, so it will be assumed that players are capable of receiving payment through that platform. Players are responsible for understanding the rules and regulations of payment through Matcherino.  
 Should a player choose to forfeit their participation in the event, they shall lose any prize eligibility.
 ## General Rules of Operation
 ### In-game Settings
