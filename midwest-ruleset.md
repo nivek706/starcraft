@@ -50,7 +50,7 @@ If submitting replays, please use a format similar to the following:
 Seeding will be assigned through a rough combination of ladder rank and previous tournament placement, if any.  
 The tournament bracket will only be finalized at the planned start time of the tournament series, so that any players who have not checked in may be removed from the bracket.  
 #### Series format
-Matches will be best of 3 games, except for the grand finals, which will be best of 7 (player from winners bracket gets 1-game advantage)  
+Each individual tournament may choose how to run the matches in a bracket. Best-of amounts and other components can be unique to the event.
 #### Exceptional match circumstances
 If a player disconnects during a match, the match should be recovered and resumed from replay.  
 In the event of a draw, the game must be played again on the same map and in-game settings, such as players and race.  
